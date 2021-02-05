@@ -1,0 +1,9 @@
+{
+    "students":[
+        {"id":1,"name":"dina","age":23,"phone":"01148984486"},
+        {"id":2,"name":"sarah","age":20,"phone":"01123384488"},
+        {"id":3,"name":"hagar","age":21,"phone":"01157984489"},
+        {"id":4,"name":"ola","age":24,"phone":"01299984426"},
+        {"id":5,"name":"basma","age":27,"phone":"01067984448"}
+    ]
+}
